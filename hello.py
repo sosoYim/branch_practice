@@ -1,11 +1,7 @@
-animals = [
-        'rabbit', 
-        'dog',
-        'cat',
-        'elephant',
-]
-
-for _ in range(1,10+1):
-    print('hello')
+for j in range(1,10+1):
+    if j%5==0:
+        print('world')
+    else:
+        print(j)
 
 
