@@ -1,0 +1,11 @@
+# custom
+
+.hidden/**
+keyfile.pem
+*.db
+
+# for mac
+.DS_Store
+
+# for windows
+thumbs.db
