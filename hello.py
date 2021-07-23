@@ -2,6 +2,7 @@ animals = [
         'rabbit', 
         'dog',
         'cat',
+        'elephant',
 ]
 
 for _ in range(1,10+1):
